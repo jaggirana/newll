@@ -1,0 +1,192 @@
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ ls
+LICENSE.txt  ReleaseNotes.html  bin/  cmd/  dev/  etc/  git-bash.exe*  git-cmd.exe*  mingw64/  mintty.exe.stackdump  proc/  tmp/  unins000.dat  unins000.exe*  unins000.msg  usr/
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ ls -l
+total 4932
+-rw-r--r-- 1 cgc 197121   18765 Aug 21 19:37 LICENSE.txt
+-rw-r--r-- 1 cgc 197121  250342 Aug 21 19:37 ReleaseNotes.html
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 bin/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 cmd/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 dev/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 etc/
+-rwxr-xr-x 1 cgc 197121  137224 Aug 21 19:15 git-bash.exe*
+-rwxr-xr-x 1 cgc 197121  136696 Aug 21 19:15 git-cmd.exe*
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 mingw64/
+-rw-r--r-- 1 cgc 197121    3449 Sep 12 22:55 mintty.exe.stackdump
+dr-xr-xr-x 9 cgc 197121       0 Sep 26 22:52 proc/
+drwxr-xr-x 1 cgc 197121       0 Sep 26 22:47 tmp/
+-rw-r--r-- 1 cgc 197121 1079348 Aug 30 02:14 unins000.dat
+-rwxr-xr-x 1 cgc 197121 3215208 Aug 30 02:14 unins000.exe*
+-rw-r--r-- 1 cgc 197121   24183 Aug 30 02:14 unins000.msg
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:22 usr/
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ ls -h
+LICENSE.txt  ReleaseNotes.html  bin/  cmd/  dev/  etc/  git-bash.exe*  git-cmd.exe*  mingw64/  mintty.exe.stackdump  proc/  tmp/  unins000.dat  unins000.exe*  unins000.msg  usr/
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ ls -lh
+total 4.9M
+-rw-r--r-- 1 cgc 197121  19K Aug 21 19:37 LICENSE.txt
+-rw-r--r-- 1 cgc 197121 245K Aug 21 19:37 ReleaseNotes.html
+drwxr-xr-x 1 cgc 197121    0 Aug 30 23:21 bin/
+drwxr-xr-x 1 cgc 197121    0 Aug 30 23:21 cmd/
+drwxr-xr-x 1 cgc 197121    0 Aug 30 23:21 dev/
+drwxr-xr-x 1 cgc 197121    0 Aug 30 23:21 etc/
+-rwxr-xr-x 1 cgc 197121 135K Aug 21 19:15 git-bash.exe*
+-rwxr-xr-x 1 cgc 197121 134K Aug 21 19:15 git-cmd.exe*
+drwxr-xr-x 1 cgc 197121    0 Aug 30 23:21 mingw64/
+-rw-r--r-- 1 cgc 197121 3.4K Sep 12 22:55 mintty.exe.stackdump
+dr-xr-xr-x 9 cgc 197121    0 Sep 26 23:01 proc/
+drwxr-xr-x 1 cgc 197121    0 Sep 26 22:47 tmp/
+-rw-r--r-- 1 cgc 197121 1.1M Aug 30 02:14 unins000.dat
+-rwxr-xr-x 1 cgc 197121 3.1M Aug 30 02:14 unins000.exe*
+-rw-r--r-- 1 cgc 197121  24K Aug 30 02:14 unins000.msg
+drwxr-xr-x 1 cgc 197121    0 Aug 30 23:22 usr/
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ ls -lS
+total 4932
+-rwxr-xr-x 1 cgc 197121 3215208 Aug 30 02:14 unins000.exe*
+-rw-r--r-- 1 cgc 197121 1079348 Aug 30 02:14 unins000.dat
+-rw-r--r-- 1 cgc 197121  250342 Aug 21 19:37 ReleaseNotes.html
+-rwxr-xr-x 1 cgc 197121  137224 Aug 21 19:15 git-bash.exe*
+-rwxr-xr-x 1 cgc 197121  136696 Aug 21 19:15 git-cmd.exe*
+-rw-r--r-- 1 cgc 197121   24183 Aug 30 02:14 unins000.msg
+-rw-r--r-- 1 cgc 197121   18765 Aug 21 19:37 LICENSE.txt
+-rw-r--r-- 1 cgc 197121    3449 Sep 12 22:55 mintty.exe.stackdump
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 bin/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 cmd/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 dev/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 etc/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 mingw64/
+dr-xr-xr-x 9 cgc 197121       0 Sep 26 23:02 proc/
+drwxr-xr-x 1 cgc 197121       0 Sep 26 22:47 tmp/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:22 usr/
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ touch a.txt
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ ls -l
+total 4932
+-rw-r--r-- 1 cgc 197121   18765 Aug 21 19:37 LICENSE.txt
+-rw-r--r-- 1 cgc 197121  250342 Aug 21 19:37 ReleaseNotes.html
+-rw-r--r-- 1 cgc 197121       0 Sep 26 23:04 a.txt
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 bin/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 cmd/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 dev/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 etc/
+-rwxr-xr-x 1 cgc 197121  137224 Aug 21 19:15 git-bash.exe*
+-rwxr-xr-x 1 cgc 197121  136696 Aug 21 19:15 git-cmd.exe*
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 mingw64/
+-rw-r--r-- 1 cgc 197121    3449 Sep 12 22:55 mintty.exe.stackdump
+dr-xr-xr-x 9 cgc 197121       0 Sep 26 23:05 proc/
+drwxr-xr-x 1 cgc 197121       0 Sep 26 22:47 tmp/
+-rw-r--r-- 1 cgc 197121 1079348 Aug 30 02:14 unins000.dat
+-rwxr-xr-x 1 cgc 197121 3215208 Aug 30 02:14 unins000.exe*
+-rw-r--r-- 1 cgc 197121   24183 Aug 30 02:14 unins000.msg
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:22 usr/
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ chmod 000 touch a.txt
+chmod: cannot access 'touch': No such file or directory
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ chmode 000 touch a.txt
+bash: chmode: command not found
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ chmod 000 a.txt
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ ls -l
+total 4932
+-rw-r--r-- 1 cgc 197121   18765 Aug 21 19:37 LICENSE.txt
+-rw-r--r-- 1 cgc 197121  250342 Aug 21 19:37 ReleaseNotes.html
+-r--r--r-- 1 cgc 197121       0 Sep 26 23:04 a.txt
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 bin/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 cmd/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 dev/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 etc/
+-rwxr-xr-x 1 cgc 197121  137224 Aug 21 19:15 git-bash.exe*
+-rwxr-xr-x 1 cgc 197121  136696 Aug 21 19:15 git-cmd.exe*
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 mingw64/
+-rw-r--r-- 1 cgc 197121    3449 Sep 12 22:55 mintty.exe.stackdump
+dr-xr-xr-x 9 cgc 197121       0 Sep 26 23:08 proc/
+drwxr-xr-x 1 cgc 197121       0 Sep 26 22:47 tmp/
+-rw-r--r-- 1 cgc 197121 1079348 Aug 30 02:14 unins000.dat
+-rwxr-xr-x 1 cgc 197121 3215208 Aug 30 02:14 unins000.exe*
+-rw-r--r-- 1 cgc 197121   24183 Aug 30 02:14 unins000.msg
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:22 usr/
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ chmod 114 a.txt
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ ls -l
+total 4932
+-rw-r--r-- 1 cgc 197121   18765 Aug 21 19:37 LICENSE.txt
+-rw-r--r-- 1 cgc 197121  250342 Aug 21 19:37 ReleaseNotes.html
+-r--r--r-- 1 cgc 197121       0 Sep 26 23:04 a.txt
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 bin/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 cmd/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 dev/
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 etc/
+-rwxr-xr-x 1 cgc 197121  137224 Aug 21 19:15 git-bash.exe*
+-rwxr-xr-x 1 cgc 197121  136696 Aug 21 19:15 git-cmd.exe*
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:21 mingw64/
+-rw-r--r-- 1 cgc 197121    3449 Sep 12 22:55 mintty.exe.stackdump
+dr-xr-xr-x 9 cgc 197121       0 Sep 26 23:09 proc/
+drwxr-xr-x 1 cgc 197121       0 Sep 26 22:47 tmp/
+-rw-r--r-- 1 cgc 197121 1079348 Aug 30 02:14 unins000.dat
+-rwxr-xr-x 1 cgc 197121 3215208 Aug 30 02:14 unins000.exe*
+-rw-r--r-- 1 cgc 197121   24183 Aug 30 02:14 unins000.msg
+drwxr-xr-x 1 cgc 197121       0 Aug 30 23:22 usr/
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ git --version
+git version 2.42.0.windows.1
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ mkdir demo
+
+cgc@DESKTOP-TRJ82AO MINGW64 /
+$ cd demo
+
+cgc@DESKTOP-TRJ82AO MINGW64 /demo
+$ git init
+Initialized empty Git repository in D:/Git/demo/.git/
+
+cgc@DESKTOP-TRJ82AO MINGW64 /demo (master)
+$ touch a.txt
+
+cgc@DESKTOP-TRJ82AO MINGW64 /demo (master)
+$ git init test
+Initialized empty Git repository in D:/Git/demo/test/.git/
+
+cgc@DESKTOP-TRJ82AO MINGW64 /demo (master)
+$ touch a.txt
+
+cgc@DESKTOP-TRJ82AO MINGW64 /demo (master)
+$ git add a.txt
+
+cgc@DESKTOP-TRJ82AO MINGW64 /demo (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   a.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test/
+
+
+cgc@DESKTOP-TRJ82AO MINGW64 /demo (master)
+$
